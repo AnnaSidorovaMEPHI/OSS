@@ -4,11 +4,11 @@
     4  touch file
     5  chmod --help
     6  chmod 000 file
-    7  "Тест">file
+    7  echo  "Тест">>file
     8  cat file
     9  chmod 200 file
    10  ls -l
-   11  "test">file
+   11  echo "test">>file
    12  cat file
    13  chmod 240 file
    14  ls -l
