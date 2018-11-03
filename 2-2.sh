@@ -1,2 +1,3 @@
 #!/bin/bash
-./2-1.sh
+./2-1.sh|less
+
