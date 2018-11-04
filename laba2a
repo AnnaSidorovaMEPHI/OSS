@@ -1,0 +1,30 @@
+.:
+итого 100
+-rw-r-----. 1 user user     0 сен 26 03:49 file
+-rw-------. 1 user user     0 сен 26 03:55 file3
+-rw-rw-rw-. 1 user user     0 сен 26 04:10 file4
+-rw-rw-r--. 1 user user   866 сен 16 10:49 notes
+-rw-r--r--. 1 user user  1893 сен 16 03:34 passwd
+lrwxrwxrwx. 1 user user    11 сен 16 04:18 passwd_link -> /etc/passwd
+drwxrwxr-x. 3 user user    29 сен 25 23:52 test
+drwxr-xr-x. 2 user user     6 сен 14 21:59 Видео
+drwxr-xr-x. 2 user user     6 сен 14 21:59 Документы
+drwxr-xr-x. 2 user user     6 сен 14 21:59 Загрузки
+drwxr-xr-x. 2 user user    31 сен 15 05:35 Изображения
+drwxr-xr-x. 2 user user     6 сен 14 21:59 Музыка
+drwxr-xr-x. 2 user user     6 сен 14 21:59 Общедоступные
+drwxr-xr-x. 2 user user     6 сен 14 21:59 Рабочий стол
+drwxr-xr-x. 2 user user     6 сен 14 21:59 Шаблоны
+
+
+./test:
+итого 4
+drw-rwxr-x. 2 user user 48 сен 26 03:40 dir
+-rw-------. 1 root root  5 сен 25 23:27 file
+
+./test/dir:
+итого 0
+-????????? ? ? ? ?            ? file1
+-????????? ? ? ? ?            ? file2
+-????????? ? ? ? ?            ? new_file
+
